@@ -1,0 +1,132 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+     
+}
+.clear-booth
+{
+    clear: both;
+}
+.creative-marketing
+{
+    width: 1905px;
+    height: 960px;
+    background-color:rgb(8, 31, 48);
+}
+ /*start header*/
+ .creative-marketing .header
+{
+    width: 1500px;
+    margin-left: 158px;
+}
+.creative-marketing .header .logo img
+{
+    width: 160px;
+    float: left;
+    margin-top: 30px;
+}
+
+.creative-marketing .header .Navbar
+{
+    width: 35%;
+    float: right;
+    font-size: 20px;
+    margin-top: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.creative-marketing .header .Navbar ul li 
+{
+    list-style: none;
+    float: left;
+    margin-left: 40px;
+    color: white;
+}
+.creative-marketing .header .Navbar ul :hover
+{
+border-bottom: 1px solid #e5ad06;
+cursor: pointer;
+}
+.creative-marketing .header .Navbar i
+{
+    float: right;
+   
+}
+.creative-marketing .header .Navbar i:hover
+{
+   cursor: pointer;
+   background-color: #e5ad06;
+   border-radius: 20px;
+  
+ 
+}
+/*end header*/
+
+/*start main*/
+.creative-marketing .main
+{
+  width: 1500px;
+  margin-left: 158px;
+  margin-top: 90px;
+}
+.creative-marketing .main img
+{
+    width: 600px;
+  
+}
+.creative-marketing .main .description-form
+{
+    float: left;
+    width: 600px;
+} 
+.creative-marketing .main .description-form .subscibe
+{   
+    color: #e5ad06;
+    font-size: 50px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    
+}
+.creative-marketing .main .description-form h1
+{
+    color: white;
+    font-size: 50px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+.creative-marketing .main .description-form p
+{
+    color: white;
+    margin: 20px 0px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.creative-marketing .main .description-form form input[type="text"]
+{
+
+ padding: 5px 60px 5px 10px;
+ border-radius: 20px;
+ border: none;
+}
+.creative-marketing .main .description-form form input[type="email"]
+{
+ margin: 20px 0px;
+ padding: 5px 60px 5px 10px;
+ border-radius: 20px;
+ border: none;
+}
+.creative-marketing .main .description-form form input[type="submit"]
+{
+
+ padding: 5px 30px ;
+ background-color: #e5ad06;
+ border-radius: 20px;
+ border: none;
+ cursor: pointer;
+}
+
+.creative-marketing .main .image-marketing
+{
+    float: right;
+    
+}
+/*end main*/
